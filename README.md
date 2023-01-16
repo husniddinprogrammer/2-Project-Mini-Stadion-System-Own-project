@@ -1,1 +1,1 @@
-"# 2-Project-Mini-Stadion-System-Own-project" 
+Website for managing mini stadiums. (Income, Salary, Mini stadium count, client count, find nearby mini stadiums and get more information and order).Technologies such as Project Java, Spring Boot, Spring Security, JPA, JDBC, Rest API, PostgreSQL, Lombok, JWT are used.Currently in demo version with global launch coming soon.
